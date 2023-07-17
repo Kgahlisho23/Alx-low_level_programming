@@ -19,7 +19,7 @@ int main(void)
 	if (c != 'e' && c != 'q')
 	putchar (c);
 	}
-	putchar ( '\n' );
+	putchar('\n');
 
 	return(0);
 }
